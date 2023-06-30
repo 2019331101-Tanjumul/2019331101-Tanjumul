@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=2019331101=Tanjumul)
+![](https://komarev.com/ghpvc/?username=2019331101-Tanjumul&color=blueviolet)
+
 <!--
 **2019331101-Tanjumul/2019331101-Tanjumul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
