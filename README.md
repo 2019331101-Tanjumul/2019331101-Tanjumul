@@ -1,5 +1,5 @@
  💬 Ask me about networking and ER-diagram for DBMS.<br>
- Email : crackerroot4@gmail.com<br>
+ Email : <h2>crackerroot4@gmail.com</h2><br>
  I’m currently learning : Machine Learning and Advanced Algorithms.<br>
  I’m currently working on a ecommerce site.
  
