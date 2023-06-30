@@ -1,5 +1,8 @@
-### Hi there 👋
-
+ 💬 Ask me about networking and ER-diagram for DBMS.
+ Email : crackerroot4@gmail.com
+ I’m currently learning : Machine Learning and Advanced Algorithms.
+ I’m currently working on a ecommerce site.
+ 
 ![](https://komarev.com/ghpvc/?username=2019331101-Tanjumul&color=blueviolet&style=for-the-badge)
 
 
