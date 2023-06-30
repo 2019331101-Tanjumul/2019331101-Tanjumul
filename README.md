@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=2019331101=Tanjumul)
+![](https://komarev.com/ghpvc/?username=2019331101-Tanjumul)
 ![](https://komarev.com/ghpvc/?username=2019331101-Tanjumul&color=blueviolet)
 
 <!--
