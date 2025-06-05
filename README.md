@@ -1,5 +1,9 @@
- Email : <h2>crackerroot4@gmail.com</h2><br>
- I’m currently learning : Machine Learning and Advanced Algorithms.<br>
+- Hi there ! I'm a passionate `Software Engineer` exploring the world of Machine Learning and actively contributing to `Open Source projects`.<br> 
+- Currently diving deep into Backend Development with `JavaScript`, `Node.js`, `Express.js`, and `Databases`.<br>
+- Eager to learn, build, and collaborate on impactful tech projects. <br>
+📫 Let’s connect and grow together — <b>contributions, ideas, and discussions are always welcome!</b>
+
+
  
 ![](https://komarev.com/ghpvc/?username=2019331101-Tanjumul&color=blueviolet&style=for-the-badge)
 
